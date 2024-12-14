@@ -1,0 +1,1 @@
+npx create-next-app@latest price-target-tracker --typescript --tailwind --eslint 
